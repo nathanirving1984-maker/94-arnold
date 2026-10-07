@@ -1,5 +1,5 @@
 :root {
-  --teal: #1B4F4C;
+  --teal: #012169;
   --gold: #B08D57;
   --cream: #F7F5F1;
   --dark: #22282A;
@@ -167,13 +167,13 @@ button[type="submit"]:hover { background: var(--teal); }
 
 /* Footer / compliance */
 footer {
-  background: var(--dark);
+  background: var(--teal);
   color: #cfd3d1;
   padding: 28px 24px;
   font-size: 0.8rem;
   text-align: center;
 }
-footer .disclaimer { max-width: 700px; margin: 10px auto 0; color: #9aa19e; }
+footer .disclaimer { max-width: 700px; margin: 10px auto 0; color: #b9c3dc; }
 footer .agent-line { color: #fff; font-weight: bold; margin-bottom: 4px; }
 footer .eho { color: var(--gold); margin-top: 6px; display: block; }
 
